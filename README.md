@@ -1,6 +1,6 @@
 # Route Planning Project Starter Code
 
-This is the starter code for the Route Planning project. Instructions for each exercise can be found in the `instructions` directory, and unit tests for some exercises in the `test` directory.
+This is the code for the route planning project based on [Udacity project](https://github.com/udacity/CppND-Route-Planning-Project) with instructions of exercise can be found in the `instructions` directory. Unit tests for some exercises can find in the `test` directory.
 
 ## Cloning
 
@@ -17,6 +17,8 @@ git clone git@github.com:murilodaluz/CppND-Route-Planning-Project.git --recurse-
 
 ### Compiling
 To compile the project, first, create a `build` directory and change to that directory:
+Obs: Need IO2D
+
 ```
 mkdir build && cd build
 ```
